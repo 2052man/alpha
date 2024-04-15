@@ -1,5 +1,5 @@
 streamlit
-Keras-Preprocessing==1.1.2
+Keras-Preprocessing
 tensorflow==2.15.0
 keras==2.15.0
 pillow
